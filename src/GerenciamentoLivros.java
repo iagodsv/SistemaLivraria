@@ -10,8 +10,6 @@ public class GerenciamentoLivros {
         Biblioteca biblioteca = new Biblioteca();
         Scanner menu = new Scanner(System.in);
 
-        Usuario user1 = new Usuario("Carlos", "carlos@email.com");
-        Livro livro2 = new Livro("O Senhor dos Anéis", new Autor("J.R.R. Tolkien"));
 
         while (true) {
 
